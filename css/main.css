@@ -17,13 +17,6 @@ html, body {
 
 .header {
   background-color: #333;
-  color: aliceblue;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 100px;
-  margin-top: 0;
-  margin-bottom: 100px;
-  text-transform: uppercase;
 }
 
 .nav {
@@ -37,7 +30,7 @@ html, body {
   display: inline;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 200px;
   margin-right: 25px;
   text-transform: uppercase;
 }
