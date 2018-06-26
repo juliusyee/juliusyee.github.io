@@ -28,8 +28,9 @@
     opacity: 0.7;
     cursor: pointer;
 }
-#biography{
+#biography, #projects{
     background-color: black;
+    text-align: center;
     margin: 0;
 }
 .header-titles{
@@ -39,4 +40,34 @@
 .paragraph-texts{
     color:white;
     margin:0;
+    text-align:left;
+}
+.skill-bars{
+    width:50%;
+    margin-left:25%;
+    text-align: center;
+}
+#skills{
+    margin:0;
+    text-align: center;
+    height: auto;
+}
+.buffer{
+    height: 50px;
+}
+h5{
+    margin-bottom:0;
+}
+h2{
+    margin:0;
+}
+.white-dots{
+    color:white;
+    margin:0;
+}
+#projects{
+    margin:0;
+}
+#about-image{
+    width:50%;
 }
