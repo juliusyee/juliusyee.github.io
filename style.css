@@ -28,7 +28,7 @@
     opacity: 0.7;
     cursor: pointer;
 }
-#biography, #projects{
+#biography, #projects, #experience{
     background-color: black;
     text-align: center;
     margin: 0;
@@ -55,6 +55,9 @@
 .buffer{
     height: 50px;
 }
+.big-buffer{
+    height: 150px;
+}
 h5{
     margin-bottom:0;
 }
@@ -68,6 +71,14 @@ h2{
 #projects{
     margin:0;
 }
-#about-image{
+#about-image, #aira-image-right{
     width:50%;
+}
+#aira-description{
+    padding-left: 15%;
+}
+.footer-text{
+    color:white;
+    margin:0;
+    align-content: center;
 }
