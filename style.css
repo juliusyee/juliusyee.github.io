@@ -71,10 +71,14 @@ h2{
 #projects{
     margin:0;
 }
-#about-image, #aira-image-right{
+#about-image, #aira-image-right, #fff-image-right{
     width:50%;
 }
 #aira-description{
+    padding-left: 15%;
+}
+
+#fff-description{
     padding-left: 15%;
 }
 .footer-text{
