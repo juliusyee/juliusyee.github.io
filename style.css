@@ -71,7 +71,7 @@ h2{
 #projects{
     margin:0;
 }
-#about-image, #aira-image-right, #fff-image-right{
+.image-half{
     width:50%;
 }
 #aira-description{
