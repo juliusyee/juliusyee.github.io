@@ -74,10 +74,12 @@ h2{
 .image-half{
     width:50%;
 }
+#amazon-image-half{
+    width:75%;
+}
 #aira-description{
     padding-left: 15%;
 }
-
 #fff-description{
     padding-left: 15%;
 }
